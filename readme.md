@@ -11,7 +11,7 @@ summarized insights using rollups and aggregates. The system will utilize data f
 
 ## Instruction
 ### Clone the github repository
-    git clone https://github.com/truesoni/zeotap-assignment.git 
+    git clone https://github.com/truesoni/zeotap-assignment-main.git 
 ### For assignment 1
     cd zeotap-assignment/application1
 ### For assignment 2
